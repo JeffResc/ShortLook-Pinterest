@@ -4,3 +4,7 @@
 Show Pinterest users' profile pictures in ShortLook when you receive a Pinterest notification!
 
 (This is not ShortLook itself, but a plugin for it)
+
+# Changelog
+## v1.0
+Initial Release
